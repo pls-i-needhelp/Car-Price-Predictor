@@ -12,7 +12,6 @@ This repository contains a machine learning project designed to predict the pric
 - `ModelVariant`: CSV file with model variants.
 - `startWebApp.py`: Python script for the Streamlit web application.
 - `model.pkl`, `encoder.pkl`, `scaler.pkl`: Pickle files containing the trained model, target encoder, and scaler.
-- `rough.py`: Utility script for miscellaneous tasks.
 - `scaler.pkl`, `encoder.pkl`: Pickle files for preprocessing transformations.
 - `xgModel`: Additional model-related file.
 
